@@ -54,6 +54,20 @@ After following the procedure above to create a resume, follow the instructions 
    3. Press the _publsih website_ link.
    
 ## GIF to show how to a resume on GitHub pages
-
+! [ ] (Animated GIF-original.mp4)
   
+
+## More Resources
+1. A [Markdown tutorial](https://www.tutorialspoint.com/grav/grav_markdown_syntax.htm).
+2. A link to [Etter's book](https://www.goodreads.com/book/show/28433138-modern-technical-writing).
+3. A good [Markdown tutorial](https://www.markdowntutorial.com/lesson/1/).
+
+## Authors and Acknowledgements
+1. Etter
+
+## FAQs
+1. Why is Markdown better than a word processor?\
+Using Markdown will catch the reader's eye. Moreover, you can take advantage of the format and include GIFs for each of your project. As per Etter's book [Modern Technical Writing](https://www.goodreads.com/book/show/28433138-modern-technical-writing) you will save the hustle of printing and reduce paper waste too since most employers accept resumes hosted on static websites.
+2. Why is my resume not showing up?\
+Your resume has to follow guidelines provided by Etter's book [Modern Technical Writing](https://www.goodreads.com/book/show/28433138-modern-technical-writing) to catch the reader's eye.
 
